@@ -3,7 +3,7 @@ import vlc
 
 class Backend:
     """
-    The `Backend` class for **Catomshik:New.**
+    The `Backend` class for **PieMoshik**.
     """
     
     def __init__(self):
@@ -53,4 +53,5 @@ class Backend:
 
 if __name__ == "__main__":
     print("This is a module: it is not meant to be run directly.")
+
     input("Press Enter to exit.")
