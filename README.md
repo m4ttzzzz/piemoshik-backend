@@ -4,7 +4,7 @@ The backend module for the upcoming PieMoshik program.
 ----
 **DEVELOPMENT IS NOT DONE YET, SOME OF THE METHODS ARE NOT IMPLEMENTED YET AND WILL RAISE AN ERROR!!**
 
-`pymusic-backend` is the backend for PyMusic, serving as the handler for VLC.
+`piemoshik-backend` is the backend for PieMoshik, serving as the handler for VLC.
 
 # Dependencies:
 - `python-vlc`
