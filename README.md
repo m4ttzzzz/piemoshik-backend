@@ -1,5 +1,5 @@
-# pymusic-backend
-The backend module for the upcoming PyMusic program.
+# piemoshik-backend
+The backend module for the upcoming PieMoshik program.
 
 ----
 **DEVELOPMENT IS NOT DONE YET, SOME OF THE METHODS ARE NOT IMPLEMENTED YET AND WILL RAISE AN ERROR!!**
