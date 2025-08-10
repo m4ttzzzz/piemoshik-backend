@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Help us fix bugs with bug reports.
-title: Bug Report
+title: 'Bug Report: '
 labels: bug
 assignees: ''
 
@@ -15,3 +15,6 @@ assignees: ''
 
 ### What did you expect?
 *Write the results that you have expected.*
+
+### Steps to reproduce
+*Fill in the steps on how to reproduce.*
